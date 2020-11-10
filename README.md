@@ -40,6 +40,8 @@ Para instalar el ambiente en nuestra computadora primero debemos instalar Anacon
 conda env create --f environment.yml
 ```
 
+Adicionalmente he instalado librerias como numba y cupy para probar aceleracion de procesamiento en operaciones crudas.
+
 Enseguida, activamos el ambiente:
 
 ```
