@@ -1,4 +1,4 @@
-# Curso de aprendizaje profundo 2021-I, IIMAS
+# Curso de aprendizaje profundo 2021-I, IIMAS, UNAM.
 Este repositorio tiene los resultados de mi asistencia a la clase de [Aprendizaje Profundo, UNAM.](http://turing.iimas.unam.mx/~gibranfp/cursos/aprendizaje_profundo/) 2021-I.
 
 ## Temario
